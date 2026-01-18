@@ -1,0 +1,11 @@
+# Python Standard
+__pycache__/
+*.pyc
+
+# User Requested Exclusions (Large Files & Libraries)
+src/weight/
+src/yolov7-main/
+
+# IDE Settings
+.vscode/
+.idea/
